@@ -1,0 +1,6 @@
+Project Belajar Python
+install python
+buat virtual environment
+pip install flask
+jalankan flask run
+fitur: login, daftar tugas, edit tugas
