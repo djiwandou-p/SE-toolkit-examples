@@ -1,0 +1,6 @@
+INFO Server started on port 5000
+WARNING Slow response from /users
+ERROR Database connection timeout
+INFO GET /health 200
+ERROR Invalid API key
+WARNING Retry attempt 2
